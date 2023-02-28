@@ -14,15 +14,15 @@
 # Task Sections
 
 ## Task-1: To-Do List WebApp
-To create a To-Do List webapplication to organize and prioritize the tasks.
+To create a To-Do List webapplication to organize and prioritize the tasks.  
 Lang used=> HTML CSS JS
 
 ## Task-2: Create React App
-To create a user card grid layout which displays the data of the users.
+To create a user card grid layout which displays the data of the users.  
 Lang used=> HTML CSS JS
 
 ## Task-3: Student Enrollment Form
-To create a registration form whose data display in same page.
+To create a registration form whose data display in same page.  
 Lang used=> HTML CSS JS NODEJS REACT
 
 ## Task-4: Calculator
